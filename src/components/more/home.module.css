@@ -1,0 +1,46 @@
+.bg{
+    background-image: url("file:///C:/Users/hp/Desktop/feane-1.0.0/images/hero-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 80vh;
+    min-width: 80vh;
+    background-position: center;
+    padding-top: 4rem;
+}
+h1{
+    font-family: 'Brush Script MT';
+    color: white;
+    margin-top: 5%;
+    font-size: 50px;
+}
+.detail{
+    color: white;
+    margin-left: 10%;
+    margin-top: 5%;  
+    margin-right: 40%; 
+}
+h2{
+    text-align: center;
+    font-family: 'Brush Script MT';
+    color: black;
+    margin-top: 5%;
+    font-size: 40px;
+}
+.container{
+    background-image: url("https://i.pinimg.com/736x/9b/44/b0/9b44b0f0f7014385a57b1b9a08cd1e7c.jpg");
+}
+.bg1{
+    background-image: url("file:///C:/Users/hp/Desktop/feane-1.0.0/images/about-img.png");
+    
+    background-repeat: no-repeat;
+    min-height: 20vh;
+    min-width: 20vh;
+    background-position: center;
+    padding-top: 4rem;
+}
+.detail1{
+    color: white;
+    margin-left: 10%;
+    margin-top: 5%;  
+    margin-right: 40%; 
+}
